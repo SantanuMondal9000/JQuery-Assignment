@@ -1,0 +1,13 @@
+#click-btn{
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #dropmenu {
+    text-align: center;
+    padding: 50px;
+    display: none;
+    background-color: #dcecff;
+  }
